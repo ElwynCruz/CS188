@@ -1,4 +1,4 @@
-#CS 188
+# CS 188
 Computer Science 188 Introduction to Computer Vision at UCLA
 Fall 2019 Scalzo
 
